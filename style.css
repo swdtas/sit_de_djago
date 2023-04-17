@@ -51,6 +51,31 @@ header{
     background-size: cover;
     height: 700px;
 }
+.row{
+    height: 30%;
+}
+.image2{
+    border-radius:265px 265px 260px 260px;
+    margin-top: 5cm;
+}
+.accueil_section2{
+    background-color: white;
+    height: 800px;
+}
+.accueil_section3{
+    height: 500px;
+    width:5cm;
+}
+.div1_accueil_section{
+    margin-top: -5px;
+}
+.carte{
+    background-image: url(images/carte_djao.png);
+}
+.list-group-item{
+    width: 100%;
+    display: flex;
+}
 #figure1 {
     width: 28%;
   height: 100%;
